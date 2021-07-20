@@ -4,3 +4,4 @@
 Creating a new branch is quick and simple.
 Test
 Create dev branch
+Test2
